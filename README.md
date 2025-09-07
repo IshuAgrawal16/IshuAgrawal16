@@ -32,7 +32,7 @@
 | Project | Tech | Highlights |
 |---------|------|-------------|
 | **[AWS Log Management & EC2 Automation](https://github.com/IshuAgrawal16/EC2-log-shipping-)** | AWS EC2 • Lambda • S3 • IAM • Python • Boto3 | Automated EC2 provisioning, web-app deployment, and log archival → **90% manual effort reduction**, **40% cost saving** |
-| **[Real-Time Chat App](https://github.com/IshuAgrawal16/fullstack_Chat_app)** | React • Node • Express • MongoDB • Socket.IO • JWT | Low-latency messaging (<100 ms), secure auth, **group & private chat** |
+| **[Chat-App](https://github.com/IshuAgrawal16/fullstack_Chat_app)** | React • Node • Express • MongoDB • Socket.IO • JWT | Low-latency messaging (<100 ms), secure auth, **group & private chat** |
 | **[Netflix-Style Streaming Clone](https://github.com/IshuAgrawal16/netflix-clone)** | Next.js 15 • Prisma • PostgreSQL • Clerk Auth • ImageKit | **Dynamic filtering**, **responsive UI**, **multi-user session** |
 
 ---
